@@ -305,11 +305,14 @@ please preview your site before committing, and make sure to run
 </p>
 
 <div id="r"> {% comment %} Start of 'Spreadsheet' section. {% endcomment %}
-  <h3>R</h3>
+  <h3>Spreadsheets</h3>
 
   <p>
-    You need to have a spreadsheet program such as <a href="https://products.office.com/en-us/excel"> Microsoft Excel </a> or 
-    the Calc program in <a href="https://www.openoffice.org/download/"> OpenOffice </a>
+    For the spreadsheets lessons you will need to have a spreadsheet program, 
+    such as <a href="https://products.office.com/en-us/excel"> Microsoft Excel </a> or 
+    the Calc program in <a href="https://www.openoffice.org/download/"> OpenOffice </a>.
+    If you do not already have one of these programs installed, please follow the 
+    links above to install.
   </p>
 </div> {% comment %} End of 'Spreadsheet' section. {% endcomment %}
 
