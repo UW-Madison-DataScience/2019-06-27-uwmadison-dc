@@ -304,6 +304,14 @@ please preview your site before committing, and make sure to run
   <a href = "{{site.swc_github}}/workshop-template/wiki/Configuration-Problems-and-Solutions">Configuration Problems and Solutions wiki page</a>.
 </p>
 
+<div id="r"> {% comment %} Start of 'Spreadsheet' section. {% endcomment %}
+  <h3>R</h3>
+
+  <p>
+    You need to have a spreadsheet program such as <a href="https://products.office.com/en-us/excel"> Microsoft Excel </a> or 
+    the Calc program in <a href="https://www.openoffice.org/download/"> OpenOffice </a>
+  </p>
+</div> {% comment %} End of 'Spreadsheet' section. {% endcomment %}
 
 
 <div id="r"> {% comment %} Start of 'R' section. {% endcomment %}
